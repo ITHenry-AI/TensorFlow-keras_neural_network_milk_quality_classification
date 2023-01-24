@@ -1,0 +1,2 @@
+# TensorFlow-keras_neural_network_milk_quality_classification
+通过TensorFlow中的keras构建简单神经网络对牛奶质量进行分类（预测），具有较高的准确率，仓库中有详细的介绍。
